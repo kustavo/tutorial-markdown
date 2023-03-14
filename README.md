@@ -4,8 +4,7 @@ Markdown é uma linguagem de marcação com sintaxe de formatação de texto sim
 
 Não há uma especificação formal para Markdown. Com o passar do tempo, muitas implementações de Markdown apareceram principalmente pela necessidade de recursos adicionais sobre a sintaxe básica, como por exemplo, tabelas, notas de rodapé, listas de definição/descrição e Markdown dentro de blocos HTML. O comportamento de alguns deles diverge da implementação de referência. Ao mesmo tempo, uma série de ambiguidades na especificação informal têm levado ao desenvolvimento de ferramentas e *parsers* para criar uma padronização. No entanto, Gruber argumentou que a padronização completa seria um erro:
 
-!!! quote "Citação"
-    Diferentes sites (e pessoas) têm necessidades diferentes. Nenhuma sintaxe faria todos felizes.
+> "Diferentes sites (e pessoas) têm necessidades diferentes. Nenhuma sintaxe faria todos felizes."
 
 Em março de 2016, foram publicadas duas RFCs informativas relevantes da Internet:
 
