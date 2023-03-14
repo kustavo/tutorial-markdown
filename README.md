@@ -36,11 +36,11 @@ Itálico: *Texto em itálico*, _Texto em itálico_
 Tachado: ~~Texto tachado~~
 
 Negrito e itálico: **_Texto negrito e itálico_**, _**Texto negrito e itálico**_`
+```
 
 > **Note**
 > O Google recomenda para seus desenvolvedores usar `**` para negrito e `_` para itálico para melhor leitura dos documentos.
 > <https://developers.google.com/style/text-formatting>
-```
 
 ### Citações de texto
 
